@@ -1,0 +1,8 @@
+# Gitter CLI dependencies
+
+
+
+# For testing
+pytest>=7.0.0
+# for diff
+diff_match_patch
